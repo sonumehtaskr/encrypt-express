@@ -1,0 +1,32 @@
+{
+  "name": "encrypt-express",
+  "version": "1.0.0",
+  "description": "Express middleware to encrypt outgoing JSON responses and decrypt incoming JSON request bodies using AES-256-CBC.",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo 'Building the project...'"
+  },
+  "keywords": [
+    "express",
+    "middleware",
+    "encryption",
+    "aes",
+    "crypto",
+    "aes-256-cbc",
+    "secure",
+    "encrypt",
+    "decrypt",
+    "nodejs"
+  ],
+  "author": "Sonu Kumar",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sonumehtaskr/encrypt-express"
+  },
+  "bugs": {
+    "url": "https://github.com/sonumehtaskr/encrypt-express/issues"
+  },
+  "homepage": "https://github.com/sonumehtaskr/encrypt-express#readme"
+}
